@@ -1,1 +1,26 @@
-
+[
+  {
+    "name": "Detect Peoples",
+    "path": "https://i.postimg.cc/LsZC7h5n/live-people-identify.gif"
+  },
+  {
+    "name": "Add to MyCircle",
+    "path": "https://i.postimg.cc/NjnCpRg3/add-people-circle.gif"
+  },
+  {
+    "name": "Measure Height",
+    "path": "https://i.postimg.cc/d1PHKvZn/height-detect.gif"
+  },
+  {
+    "name": "View MyHistory",
+    "path": "https://i.postimg.cc/SRVD8MTt/view-peoples.gif"
+  },
+  {
+    "name": "Identify Songs",
+    "path": "https://i.postimg.cc/2yYKnmz3/songs-classify.gif"
+  },
+  {
+    "name": "Update MyCircle",
+    "path": "https://i.postimg.cc/7hqKfVV2/add-people-record.gif"
+  }
+]
